@@ -12,7 +12,7 @@ package calculadora3;
 public class Calculadora {
 
 public double suma(double number1, double number2){
-
+int n;
 return number1 + number2;
 
 }
